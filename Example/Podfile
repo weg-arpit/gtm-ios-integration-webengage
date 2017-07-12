@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WebEngage-GTM_Example' do
+  pod 'WebEngage-GTM', :path => '../'
+
+  target 'WebEngage-GTM_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
