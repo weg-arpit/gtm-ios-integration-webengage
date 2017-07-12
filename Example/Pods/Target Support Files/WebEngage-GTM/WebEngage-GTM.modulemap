@@ -1,0 +1,6 @@
+framework module WebEngage_GTM {
+  umbrella header "WebEngage-GTM-umbrella.h"
+
+  export *
+  module * { export * }
+}

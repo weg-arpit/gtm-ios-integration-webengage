@@ -1,0 +1,16 @@
+PODS:
+  - WebEngage-GTM (0.1.0)
+
+DEPENDENCIES:
+  - WebEngage-GTM (from `../`)
+
+EXTERNAL SOURCES:
+  WebEngage-GTM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WebEngage-GTM: 345d0beba56fe2f7d00cfb44d568f38349d52256
+
+PODFILE CHECKSUM: ba336385d1f68055b3f21727805fed69695513cb
+
+COCOAPODS: 1.2.1

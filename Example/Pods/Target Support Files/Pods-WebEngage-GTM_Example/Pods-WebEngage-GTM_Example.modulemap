@@ -1,0 +1,6 @@
+framework module Pods_WebEngage_GTM_Example {
+  umbrella header "Pods-WebEngage-GTM_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

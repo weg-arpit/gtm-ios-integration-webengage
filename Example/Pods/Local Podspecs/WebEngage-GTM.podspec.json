@@ -1,0 +1,22 @@
+{
+  "name": "WebEngage-GTM",
+  "version": "0.1.0",
+  "summary": "A short description of WebEngage-GTM.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weg-arpit/WebEngage-GTM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weg-arpit": "arpit@webklipper.com"
+  },
+  "source": {
+    "git": "https://github.com/weg-arpit/WebEngage-GTM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WebEngage-GTM/Classes/**/*"
+}
